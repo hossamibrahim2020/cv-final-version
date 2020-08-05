@@ -1,0 +1,82 @@
+[
+    {
+        "title": "team work",
+        "color": "0xFF2196F3",
+        "widthValue": 0.8
+    },
+    {
+        "title": "time mangement",
+        "color": "0xFFB71C1C",
+        "widthValue": 0.85
+    },
+    {
+        "title": "english",
+        "color": "0xFF4CAF50",
+        "widthValue": 0.7
+    },
+    {
+        "title": "fast learner",
+        "color": "0xFF4CAF50",
+        "widthValue": 0.7
+    },
+    {
+        "title": "programming concept",
+        "color": "0xFFF44336",
+        "widthValue": 0.9
+    },
+    {
+        "title": "OOP concept",
+        "color": "0xFFF44336",
+        "widthValue": 0.9
+    },
+    {
+        "title": "Clean Code",
+        "color": "0xFF2196F3",
+        "widthValue": 0.7
+    },
+    {
+        "title": "problem solving",
+        "color": "0xFF4CAF50",
+        "widthValue": 0.8
+    },
+    {
+        "title": "MVVM",
+        "color": "0xFF4CAF50",
+        "widthValue": 0.8
+    },
+    {
+        "title": "Build UI code by flutter",
+        "color": "0xFFF44336",
+        "widthValue": 0.9
+    },
+    {
+        "title": "Responsive UI",
+        "color": "0xFFF44336",
+        "widthValue": 0.9
+    },
+    {
+        "title": "work with API",
+        "color": "0xFF2196F3",
+        "widthValue": 0.65
+    },
+    {
+        "title": "work with firebase",
+        "color": "0xFF4CAF50",
+        "widthValue": 0.8
+    },
+    {
+        "title": "Mobx State management",
+        "color": "0xFFF44336",
+        "widthValue": 0.9
+    },
+    {
+        "title": "Provider State management",
+        "color": "0xFF2196F3",
+        "widthValue": 0.6
+    },
+    {
+        "title": "git & gitHub",
+        "color": "0xFF4CAF50",
+        "widthValue": 0.7
+    }
+]
